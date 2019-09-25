@@ -21,15 +21,12 @@ Adding a new post can be done by:
 To run this you need node.js
 
 *These commands are only needed in case you can't run it*
-
+```
 npm install express nodemod
-
 npm install mongoose
-
 npm install body-parser
-
 npm install cors
-
+```
 <br>
 
 Sorry if it feels lacking, were alone and didn't have the needed time (I know it's a bad excuse!)
