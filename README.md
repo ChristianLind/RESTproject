@@ -20,6 +20,11 @@ Adding a new post can be done by:
 
 To run this you need node.js
 
+Command to start the server:
+```
+npm start
+```
+
 *These commands are only needed in case you can't run it*
 ```
 npm install express nodemod
