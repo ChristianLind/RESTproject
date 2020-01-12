@@ -16,6 +16,13 @@ Adding a new post can be done by:
 ```
 <br>
 
+### How to run it
+Run the server by typing "node app.js" in the terminal
+
+When the server is running, open another terminal and type "node client.js" to check out the posts
+
+
+
 ### Installation guide:
 
 To run this you need node.js
